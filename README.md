@@ -1,19 +1,3 @@
-Yes — add a root `README.md` so anyone opening the repository immediately understands the project.
-
-Create this file here:
-
-```text
-kafka-order-microservices/
-├── README.md
-├── order-service/
-├── inventory-service/
-├── payment-service/
-└── notification-service/
-```
-
-Use this content:
-
-````markdown
 # Kafka Order Processing Microservices
 
 A Spring Boot microservices project demonstrating an event-driven order processing system using Apache Kafka and MySQL.
